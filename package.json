@@ -1,0 +1,28 @@
+{
+  "name": "dns-server",
+  "version": "1.0.0",
+  "description": "dns-server learning",
+  "keywords": [
+    "dns",
+    "learning"
+  ],
+  "homepage": "https://github.com/adimehtaa/dns-server#readme",
+  "bugs": {
+    "url": "https://github.com/adimehtaa/dns-server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adimehtaa/dns-server.git"
+  },
+  "license": "ISC",
+  "author": "aditya mehta",
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "typescript": "^6.0.3"
+  }
+}

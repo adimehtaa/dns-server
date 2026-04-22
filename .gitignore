@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables (Sensitive Data)
+.env
+.env.test
+.env.local
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+.nuxt/
+
+# Caches
+.eslintcache
+.npm
+.cache
+.parcel-cache
+.tsbuildinfo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
